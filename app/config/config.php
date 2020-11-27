@@ -2,6 +2,6 @@
 
 define('BASE', '/php-standard-mvc/');
 
-define('UNSET_URI_COUNT', 1);
+define('UNSET_URI_COUNT', 2);
 
-define('DEBUG_URI', true);
+define('DEBUG_URI', false);
